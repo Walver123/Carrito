@@ -1,0 +1,30 @@
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.csprojAssemblyReference.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\Interop.WMPLib.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.csproj.ResolveComReference.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.Form1.resources
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.Properties.Resources.resources
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.csproj.GenerateResource.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.csproj.CoreCompileInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\bin\Debug\TareaClasePrograB.exe.config
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\bin\Debug\TareaClasePrograB.exe
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\bin\Debug\TareaClasePrograB.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\bin\Debug\Interop.WMPLib.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.exe
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 6\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.pdb
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\bin\Debug\TareaClasePrograB.exe.config
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\bin\Debug\TareaClasePrograB.exe
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\bin\Debug\TareaClasePrograB.pdb
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\bin\Debug\Interop.WMPLib.dll
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.csprojAssemblyReference.cache
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\Interop.WMPLib.dll
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.csproj.ResolveComReference.cache
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.Form1.resources
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.Properties.Resources.resources
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.csproj.GenerateResource.cache
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.csproj.CoreCompileInputs.cache
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.exe
+C:\Users\Arana\Desktop\TareaClasePrograB\TareaClasePrograB\obj\Debug\TareaClasePrograB.pdb
